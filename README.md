@@ -1,3 +1,3 @@
-<h1>Đồ án tốt nghiệp<h1/>
+#Đồ án tốt nghiệp
 
-Mô tả dự án ABC của nhó XYZ
+*Mô tả dự án ABC của nhó XYZ*
